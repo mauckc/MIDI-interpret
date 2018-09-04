@@ -13,6 +13,27 @@ file select:
                date uploaded
                A to Z
                Z to A
-project interface:
+project editor:
      functions
+     
+          adjust piano roll proportions
+          adjust vertical scale
+          adjust beginning lag
+          adjust background color
+          
+          sound settings
+               adjust volume
+               adjust MIDI instrument / change soundfont
+               add reverb
+               remove reverb
+               add echo
+               remove echo
+          
+          adjust note color
+          adjust note velocity
+          adjust note timing
+          add note
+          delete note
+          repitch note
+          
           
