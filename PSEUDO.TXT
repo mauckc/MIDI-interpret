@@ -1,0 +1,18 @@
+main menu:
+     functions
+          create new project -- after MIDI file input, program loads up editing interface
+          open existing project -- opens to a file select screen
+
+file select:
+     functions
+          return to menu
+          open project
+          delete project
+          sort 
+               date opened
+               date uploaded
+               A to Z
+               Z to A
+project interface:
+     functions
+          
