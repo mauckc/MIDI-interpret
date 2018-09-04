@@ -1,0 +1,7 @@
+int NoteLoc
+int Velocity
+
+void VelocityToColor()
+
+void BegNoteAni()
+void EndNoteAni()
